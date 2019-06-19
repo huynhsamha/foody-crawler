@@ -1,0 +1,1798 @@
+[
+  {
+    "name": "TP. HCM",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 1,
+    "country_id": 86,
+    "district": [
+      {
+        "province_id": 217,
+        "id": 1,
+        "name": "Quận 1"
+      },
+      {
+        "province_id": 217,
+        "id": 2,
+        "name": "Quận Gò Vấp"
+      },
+      {
+        "province_id": 217,
+        "id": 4,
+        "name": "Quận 2"
+      },
+      {
+        "province_id": 217,
+        "id": 5,
+        "name": "Quận 3"
+      },
+      {
+        "province_id": 217,
+        "id": 6,
+        "name": "Quận 4"
+      },
+      {
+        "province_id": 217,
+        "id": 7,
+        "name": "Quận 5"
+      },
+      {
+        "province_id": 217,
+        "id": 8,
+        "name": "Quận 6"
+      },
+      {
+        "province_id": 217,
+        "id": 9,
+        "name": "Quận 7"
+      },
+      {
+        "province_id": 217,
+        "id": 10,
+        "name": "Quận 8"
+      },
+      {
+        "province_id": 217,
+        "id": 11,
+        "name": "Quận 9"
+      },
+      {
+        "province_id": 217,
+        "id": 12,
+        "name": "Quận 10"
+      },
+      {
+        "province_id": 217,
+        "id": 13,
+        "name": "Quận 11"
+      },
+      {
+        "province_id": 217,
+        "id": 14,
+        "name": "Quận 12"
+      },
+      {
+        "province_id": 217,
+        "id": 15,
+        "name": "Quận Bình Thạnh"
+      },
+      {
+        "province_id": 217,
+        "id": 16,
+        "name": "Quận Tân Bình"
+      },
+      {
+        "province_id": 217,
+        "id": 17,
+        "name": "Quận Phú Nhuận"
+      },
+      {
+        "province_id": 217,
+        "id": 18,
+        "name": "Quận Bình Tân"
+      },
+      {
+        "province_id": 217,
+        "id": 19,
+        "name": "Quận Tân Phú"
+      },
+      {
+        "province_id": 217,
+        "id": 693,
+        "name": "Quận Thủ Đức"
+      },
+      {
+        "province_id": 217,
+        "id": 694,
+        "name": "Củ Chi"
+      },
+      {
+        "province_id": 217,
+        "id": 695,
+        "name": "Hóc Môn"
+      },
+      {
+        "province_id": 217,
+        "id": 696,
+        "name": "Bình Chánh"
+      },
+      {
+        "province_id": 217,
+        "id": 698,
+        "name": "Cần Giờ"
+      },
+      {
+        "province_id": 217,
+        "id": 699,
+        "name": "Nhà Bè"
+      }
+    ],
+    "confirm_method": [],
+    "name_url": "ho-chi-minh",
+    "id": 217
+  },
+  {
+    "name": "Hà Nội",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 2,
+    "country_id": 86,
+    "district": [
+      {
+        "province_id": 218,
+        "id": 674,
+        "name": "Ba Vì"
+      },
+      {
+        "province_id": 218,
+        "id": 675,
+        "name": "Chương Mỹ"
+      },
+      {
+        "province_id": 218,
+        "id": 676,
+        "name": "Đan Phượng"
+      },
+      {
+        "province_id": 218,
+        "id": 677,
+        "name": "Đông Anh"
+      },
+      {
+        "province_id": 218,
+        "id": 679,
+        "name": "Hoài Đức"
+      },
+      {
+        "province_id": 218,
+        "id": 680,
+        "name": "Mê Linh"
+      },
+      {
+        "province_id": 218,
+        "id": 681,
+        "name": "Mỹ Đức"
+      },
+      {
+        "province_id": 218,
+        "id": 682,
+        "name": "Phú Xuyên"
+      },
+      {
+        "province_id": 218,
+        "id": 683,
+        "name": "Phúc Thọ"
+      },
+      {
+        "province_id": 218,
+        "id": 684,
+        "name": "Quốc Oai"
+      },
+      {
+        "province_id": 218,
+        "id": 685,
+        "name": "Sóc Sơn"
+      },
+      {
+        "province_id": 218,
+        "id": 686,
+        "name": "Thạch Thất"
+      },
+      {
+        "province_id": 218,
+        "id": 687,
+        "name": "Thanh Oai"
+      },
+      {
+        "province_id": 218,
+        "id": 691,
+        "name": "Ứng Hòa"
+      },
+      {
+        "province_id": 218,
+        "id": 692,
+        "name": "Thị xã Sơn Tây"
+      },
+      {
+        "province_id": 218,
+        "id": 20,
+        "name": "Quận Ba Đình"
+      },
+      {
+        "province_id": 218,
+        "id": 21,
+        "name": "Quận Cầu Giấy"
+      },
+      {
+        "province_id": 218,
+        "id": 22,
+        "name": "Quận Đống Đa"
+      },
+      {
+        "province_id": 218,
+        "id": 23,
+        "name": "Quận Hà Đông"
+      },
+      {
+        "province_id": 218,
+        "id": 24,
+        "name": "Quận Hai Bà Trưng"
+      },
+      {
+        "province_id": 218,
+        "id": 25,
+        "name": "Quận Hoàn Kiếm"
+      },
+      {
+        "province_id": 218,
+        "id": 26,
+        "name": "Quận Hoàng Mai"
+      },
+      {
+        "province_id": 218,
+        "id": 27,
+        "name": "Quận Long Biên"
+      },
+      {
+        "province_id": 218,
+        "id": 28,
+        "name": "Quận Tây Hồ"
+      },
+      {
+        "province_id": 218,
+        "id": 29,
+        "name": "Quận Thanh Xuân"
+      },
+      {
+        "province_id": 218,
+        "id": 678,
+        "name": "Gia Lâm"
+      },
+      {
+        "province_id": 218,
+        "id": 688,
+        "name": "Thanh Trì"
+      },
+      {
+        "province_id": 218,
+        "id": 689,
+        "name": "Thường Tín"
+      },
+      {
+        "province_id": 218,
+        "id": 690,
+        "name": "Quận Bắc Từ Liêm"
+      },
+      {
+        "province_id": 218,
+        "id": 945,
+        "name": "Quận Nam Từ Liêm"
+      }
+    ],
+    "confirm_method": [],
+    "name_url": "ha-noi",
+    "id": 218
+  },
+  {
+    "name": "Đà Nẵng",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 3,
+    "country_id": 86,
+    "district": [
+      {
+        "province_id": 219,
+        "id": 30,
+        "name": "Quận Cẩm Lệ"
+      },
+      {
+        "province_id": 219,
+        "id": 31,
+        "name": "Quận Hải Châu"
+      },
+      {
+        "province_id": 219,
+        "id": 32,
+        "name": "Quận Liên Chiểu"
+      },
+      {
+        "province_id": 219,
+        "id": 33,
+        "name": "Quận Ngũ Hành Sơn"
+      },
+      {
+        "province_id": 219,
+        "id": 34,
+        "name": "Quận Sơn Trà"
+      },
+      {
+        "province_id": 219,
+        "id": 35,
+        "name": "Quận Thanh Khê"
+      },
+      {
+        "province_id": 219,
+        "id": 158,
+        "name": "Hòa Vang"
+      },
+      {
+        "province_id": 219,
+        "id": 159,
+        "name": "Hoàng Sa"
+      }
+    ],
+    "confirm_method": [],
+    "name_url": "da-nang",
+    "id": 219
+  },
+  {
+    "name": "Cần Thơ",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 4,
+    "country_id": 86,
+    "district": [
+      {
+        "province_id": 221,
+        "id": 43,
+        "name": "Quận Ninh Kiều"
+      },
+      {
+        "province_id": 221,
+        "id": 44,
+        "name": "Quận Bình Thủy"
+      },
+      {
+        "province_id": 221,
+        "id": 45,
+        "name": "Quận Cái Răng"
+      },
+      {
+        "province_id": 221,
+        "id": 46,
+        "name": "Quận Ô Môn"
+      },
+      {
+        "province_id": 221,
+        "id": 47,
+        "name": "Quận Thốt Nốt"
+      },
+      {
+        "province_id": 221,
+        "id": 117,
+        "name": "Hưng Phú"
+      },
+      {
+        "province_id": 221,
+        "id": 118,
+        "name": "Phong Điền"
+      },
+      {
+        "province_id": 221,
+        "id": 119,
+        "name": "Cờ Đỏ"
+      },
+      {
+        "province_id": 221,
+        "id": 120,
+        "name": "Thới Lai"
+      },
+      {
+        "province_id": 221,
+        "id": 121,
+        "name": "Vĩnh Thạnh"
+      }
+    ],
+    "confirm_method": [],
+    "name_url": "can-tho",
+    "id": 221
+  },
+  {
+    "name": "Hải Phòng",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 5,
+    "country_id": 86,
+    "district": [
+      {
+        "province_id": 220,
+        "id": 36,
+        "name": "Quận Dương Kinh"
+      },
+      {
+        "province_id": 220,
+        "id": 37,
+        "name": "Quận Đồ Sơn"
+      },
+      {
+        "province_id": 220,
+        "id": 38,
+        "name": "Quận Hải An"
+      },
+      {
+        "province_id": 220,
+        "id": 39,
+        "name": "Quận Kiến An"
+      },
+      {
+        "province_id": 220,
+        "id": 40,
+        "name": "Quận Hồng Bàng"
+      },
+      {
+        "province_id": 220,
+        "id": 41,
+        "name": "Quận Ngô Quyền"
+      },
+      {
+        "province_id": 220,
+        "id": 42,
+        "name": "Quận Lê Chân"
+      },
+      {
+        "province_id": 220,
+        "id": 109,
+        "name": "An Dương"
+      },
+      {
+        "province_id": 220,
+        "id": 110,
+        "name": "An Lão"
+      },
+      {
+        "province_id": 220,
+        "id": 111,
+        "name": "Bạch Long Vĩ"
+      },
+      {
+        "province_id": 220,
+        "id": 112,
+        "name": "Cát Hải"
+      },
+      {
+        "province_id": 220,
+        "id": 113,
+        "name": "Kiến Thụy"
+      },
+      {
+        "province_id": 220,
+        "id": 114,
+        "name": "Tiên Lãng"
+      },
+      {
+        "province_id": 220,
+        "id": 115,
+        "name": "Vĩnh Bảo"
+      },
+      {
+        "province_id": 220,
+        "id": 116,
+        "name": "Thủy Nguyên"
+      }
+    ],
+    "confirm_method": [],
+    "name_url": "hai-phong",
+    "id": 220
+  },
+  {
+    "name": "Huế",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 6,
+    "country_id": 86,
+    "district": [
+      {
+        "province_id": 273,
+        "id": 301,
+        "name": "Tp. Huế"
+      },
+      {
+        "province_id": 273,
+        "id": 302,
+        "name": "Thị xã Hương Thủy"
+      },
+      {
+        "province_id": 273,
+        "id": 303,
+        "name": "A Lưới"
+      },
+      {
+        "province_id": 273,
+        "id": 304,
+        "name": "Hương Trà"
+      },
+      {
+        "province_id": 273,
+        "id": 305,
+        "name": "Nam Đông"
+      },
+      {
+        "province_id": 273,
+        "id": 306,
+        "name": "Phong Điền"
+      },
+      {
+        "province_id": 273,
+        "id": 307,
+        "name": "Phú Lộc"
+      },
+      {
+        "province_id": 273,
+        "id": 308,
+        "name": "Phú Vang"
+      },
+      {
+        "province_id": 273,
+        "id": 309,
+        "name": "Quảng Điền"
+      }
+    ],
+    "confirm_method": [],
+    "name_url": "hue",
+    "id": 273
+  },
+  {
+    "name": "Khánh Hoà",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 7,
+    "country_id": 86,
+    "district": [
+      {
+        "province_id": 248,
+        "id": 386,
+        "name": "Tp. Nha Trang"
+      },
+      {
+        "province_id": 248,
+        "id": 387,
+        "name": "Tp. Cam Ranh"
+      },
+      {
+        "province_id": 248,
+        "id": 388,
+        "name": "Vạn Ninh"
+      },
+      {
+        "province_id": 248,
+        "id": 389,
+        "name": "Ninh Hòa"
+      },
+      {
+        "province_id": 248,
+        "id": 390,
+        "name": "Diên Khánh"
+      },
+      {
+        "province_id": 248,
+        "id": 391,
+        "name": "Khánh Vĩnh"
+      },
+      {
+        "province_id": 248,
+        "id": 392,
+        "name": "Khánh Sơn"
+      },
+      {
+        "province_id": 248,
+        "id": 393,
+        "name": "Cam Lâm"
+      },
+      {
+        "province_id": 248,
+        "id": 394,
+        "name": "Trường Sa"
+      }
+    ],
+    "confirm_method": [],
+    "name_url": "khanh-hoa",
+    "id": 248
+  },
+  {
+    "name": "Đồng Nai",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 8,
+    "country_id": 86,
+    "district": [],
+    "confirm_method": [],
+    "name_url": "dong-nai",
+    "id": 222
+  },
+  {
+    "name": "Nghệ An",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 10,
+    "country_id": 86,
+    "district": [],
+    "confirm_method": [],
+    "name_url": "nghe-an",
+    "id": 257
+  },
+  {
+    "name": "An Giang",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 100,
+    "country_id": 86,
+    "district": [],
+    "confirm_method": [],
+    "name_url": "an-giang",
+    "id": 224
+  },
+  {
+    "name": "Bạc Liêu",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 100,
+    "country_id": 86,
+    "district": [],
+    "confirm_method": [],
+    "name_url": "bac-lieu",
+    "id": 225
+  },
+  {
+    "name": "Bắc Kạn",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 100,
+    "country_id": 86,
+    "district": [],
+    "confirm_method": [],
+    "name_url": "bac-kan",
+    "id": 226
+  },
+  {
+    "name": "Bắc Giang",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 100,
+    "country_id": 86,
+    "district": [],
+    "confirm_method": [],
+    "name_url": "bac-giang",
+    "id": 227
+  },
+  {
+    "name": "Bắc Ninh",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 100,
+    "country_id": 86,
+    "district": [],
+    "confirm_method": [],
+    "name_url": "bac-ninh",
+    "id": 228
+  },
+  {
+    "name": "Bến Tre",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 100,
+    "country_id": 86,
+    "district": [],
+    "confirm_method": [],
+    "name_url": "ben-tre",
+    "id": 229
+  },
+  {
+    "name": "Bình Định",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 100,
+    "country_id": 86,
+    "district": [],
+    "confirm_method": [],
+    "name_url": "binh-dinh",
+    "id": 231
+  },
+  {
+    "name": "Bình Phước",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 100,
+    "country_id": 86,
+    "district": [],
+    "confirm_method": [],
+    "name_url": "binh-phuoc",
+    "id": 232
+  },
+  {
+    "name": "Bình Thuận",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 100,
+    "country_id": 86,
+    "district": [],
+    "confirm_method": [],
+    "name_url": "binh-thuan",
+    "id": 233
+  },
+  {
+    "name": "Cà Mau",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 100,
+    "country_id": 86,
+    "district": [],
+    "confirm_method": [],
+    "name_url": "ca-mau",
+    "id": 234
+  },
+  {
+    "name": "Cao Bằng",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 100,
+    "country_id": 86,
+    "district": [],
+    "confirm_method": [],
+    "name_url": "cao-bang",
+    "id": 235
+  },
+  {
+    "name": "Đắk Lắk",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 100,
+    "country_id": 86,
+    "district": [],
+    "confirm_method": [],
+    "name_url": "dak-lak",
+    "id": 236
+  },
+  {
+    "name": "Đắk Nông",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 100,
+    "country_id": 86,
+    "district": [],
+    "confirm_method": [],
+    "name_url": "dak-nong",
+    "id": 237
+  },
+  {
+    "name": "Điện Biên",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "01:00",
+      "call_center": "1900 6044"
+    },
+    "display_order": 100,
+    "country_id": 86,
+    "district": [
+      {
+        "province_id": 238,
+        "id": 355,
+        "name": "Tuần Giáo"
+      },
+      {
+        "province_id": 238,
+        "id": 347,
+        "name": "Tp. Điện Biên Phủ"
+      },
+      {
+        "province_id": 238,
+        "id": 348,
+        "name": "Thị xã Mường Lay"
+      },
+      {
+        "province_id": 238,
+        "id": 349,
+        "name": "Điện Biên"
+      },
+      {
+        "province_id": 238,
+        "id": 350,
+        "name": "Điện Biên Đông"
+      },
+      {
+        "province_id": 238,
+        "id": 351,
+        "name": "Mường Ảng"
+      },
+      {
+        "province_id": 238,
+        "id": 352,
+        "name": "Mường Chà"
+      },
+      {
+        "province_id": 238,
+        "id": 353,
+        "name": "Mường Nhé"
+      },
+      {
+        "province_id": 238,
+        "id": 354,
+        "name": "Tủa Chùa"
+      }
+    ],
+    "confirm_method": [],
+    "name_url": "dien-bien",
+    "id": 238
+  },
+  {
+    "name": "Đồng Tháp",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 100,
+    "country_id": 86,
+    "district": [],
+    "confirm_method": [],
+    "name_url": "dong-thap",
+    "id": 239
+  },
+  {
+    "name": "Gia Lai",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 100,
+    "country_id": 86,
+    "district": [],
+    "confirm_method": [],
+    "name_url": "gia-lai",
+    "id": 240
+  },
+  {
+    "name": "Hà Giang",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 100,
+    "country_id": 86,
+    "district": [],
+    "confirm_method": [],
+    "name_url": "ha-giang",
+    "id": 241
+  },
+  {
+    "name": "Hà Nam",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 100,
+    "country_id": 86,
+    "district": [],
+    "confirm_method": [],
+    "name_url": "ha-nam",
+    "id": 242
+  },
+  {
+    "name": "Hà Tĩnh",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 100,
+    "country_id": 86,
+    "district": [],
+    "confirm_method": [],
+    "name_url": "ha-tinh",
+    "id": 243
+  },
+  {
+    "name": "Hải Dương",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 100,
+    "country_id": 86,
+    "district": [],
+    "confirm_method": [],
+    "name_url": "hai-duong",
+    "id": 244
+  },
+  {
+    "name": "Hậu Giang",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 100,
+    "country_id": 86,
+    "district": [],
+    "confirm_method": [],
+    "name_url": "hau-giang",
+    "id": 245
+  },
+  {
+    "name": "Hòa Bình",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 100,
+    "country_id": 86,
+    "district": [],
+    "confirm_method": [],
+    "name_url": "hoa-binh",
+    "id": 246
+  },
+  {
+    "name": "Hưng Yên",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 100,
+    "country_id": 86,
+    "district": [],
+    "confirm_method": [],
+    "name_url": "hung-yen",
+    "id": 247
+  },
+  {
+    "name": "Kiên Giang",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 100,
+    "country_id": 86,
+    "district": [],
+    "confirm_method": [],
+    "name_url": "kien-giang",
+    "id": 249
+  },
+  {
+    "name": "Kon Tum",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 100,
+    "country_id": 86,
+    "district": [],
+    "confirm_method": [],
+    "name_url": "kon-tum",
+    "id": 250
+  },
+  {
+    "name": "Lai Châu",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 100,
+    "country_id": 86,
+    "district": [],
+    "confirm_method": [],
+    "name_url": "lai-chau",
+    "id": 251
+  },
+  {
+    "name": "Lạng Sơn",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 100,
+    "country_id": 86,
+    "district": [],
+    "confirm_method": [],
+    "name_url": "lang-son",
+    "id": 252
+  },
+  {
+    "name": "Lào Cai",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 100,
+    "country_id": 86,
+    "district": [],
+    "confirm_method": [],
+    "name_url": "lao-cai",
+    "id": 253
+  },
+  {
+    "name": "Lâm Đồng",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 100,
+    "country_id": 86,
+    "district": [],
+    "confirm_method": [],
+    "name_url": "lam-dong",
+    "id": 254
+  },
+  {
+    "name": "Long An",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 100,
+    "country_id": 86,
+    "district": [],
+    "confirm_method": [],
+    "name_url": "long-an",
+    "id": 255
+  },
+  {
+    "name": "Nam Định",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 100,
+    "country_id": 86,
+    "district": [],
+    "confirm_method": [],
+    "name_url": "nam-dinh",
+    "id": 256
+  },
+  {
+    "name": "Ninh Bình",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 100,
+    "country_id": 86,
+    "district": [],
+    "confirm_method": [],
+    "name_url": "ninh-binh",
+    "id": 258
+  },
+  {
+    "name": "Ninh Thuận",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 100,
+    "country_id": 86,
+    "district": [],
+    "confirm_method": [],
+    "name_url": "ninh-thuan",
+    "id": 259
+  },
+  {
+    "name": "Phú Thọ",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 100,
+    "country_id": 86,
+    "district": [],
+    "confirm_method": [],
+    "name_url": "phu-tho",
+    "id": 260
+  },
+  {
+    "name": "Phú Yên",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 100,
+    "country_id": 86,
+    "district": [],
+    "confirm_method": [],
+    "name_url": "phu-yen",
+    "id": 261
+  },
+  {
+    "name": "Quảng Bình",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 100,
+    "country_id": 86,
+    "district": [],
+    "confirm_method": [],
+    "name_url": "quang-binh",
+    "id": 262
+  },
+  {
+    "name": "Quảng Nam",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 100,
+    "country_id": 86,
+    "district": [
+      {
+        "province_id": 263,
+        "id": 575,
+        "name": "Tp. Tam Kỳ"
+      },
+      {
+        "province_id": 263,
+        "id": 576,
+        "name": "Tp. Hội An"
+      },
+      {
+        "province_id": 263,
+        "id": 577,
+        "name": "Điện Bàn"
+      },
+      {
+        "province_id": 263,
+        "id": 578,
+        "name": "Thăng Bình"
+      },
+      {
+        "province_id": 263,
+        "id": 579,
+        "name": "Bắc Trà My"
+      },
+      {
+        "province_id": 263,
+        "id": 580,
+        "name": "Nam Trà My"
+      },
+      {
+        "province_id": 263,
+        "id": 581,
+        "name": "Núi Thành"
+      },
+      {
+        "province_id": 263,
+        "id": 582,
+        "name": "Phước Sơn"
+      },
+      {
+        "province_id": 263,
+        "id": 583,
+        "name": "Tiên Phước"
+      },
+      {
+        "province_id": 263,
+        "id": 584,
+        "name": "Hiệp Đức"
+      },
+      {
+        "province_id": 263,
+        "id": 585,
+        "name": "Nông Sơn"
+      },
+      {
+        "province_id": 263,
+        "id": 586,
+        "name": "Đông Giang"
+      },
+      {
+        "province_id": 263,
+        "id": 587,
+        "name": "Nam Giang"
+      },
+      {
+        "province_id": 263,
+        "id": 588,
+        "name": "Đại Lộc"
+      },
+      {
+        "province_id": 263,
+        "id": 589,
+        "name": "Phú Ninh"
+      },
+      {
+        "province_id": 263,
+        "id": 590,
+        "name": "Tây Giang"
+      },
+      {
+        "province_id": 263,
+        "id": 591,
+        "name": "Duy Xuyên"
+      },
+      {
+        "province_id": 263,
+        "id": 592,
+        "name": "Quế Sơn"
+      }
+    ],
+    "confirm_method": [],
+    "name_url": "quang-nam",
+    "id": 263
+  },
+  {
+    "name": "Quảng Ngãi",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 100,
+    "country_id": 86,
+    "district": [],
+    "confirm_method": [],
+    "name_url": "quang-ngai",
+    "id": 264
+  },
+  {
+    "name": "Quảng Trị",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 100,
+    "country_id": 86,
+    "district": [],
+    "confirm_method": [],
+    "name_url": "quang-tri",
+    "id": 266
+  },
+  {
+    "name": "Sóc Trăng",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 100,
+    "country_id": 86,
+    "district": [],
+    "confirm_method": [],
+    "name_url": "soc-trang",
+    "id": 267
+  },
+  {
+    "name": "Sơn La",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 100,
+    "country_id": 86,
+    "district": [],
+    "confirm_method": [],
+    "name_url": "son-la",
+    "id": 268
+  },
+  {
+    "name": "Tây Ninh",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 100,
+    "country_id": 86,
+    "district": [],
+    "confirm_method": [],
+    "name_url": "tay-ninh",
+    "id": 269
+  },
+  {
+    "name": "Thái Bình",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 100,
+    "country_id": 86,
+    "district": [],
+    "confirm_method": [],
+    "name_url": "thai-binh",
+    "id": 270
+  },
+  {
+    "name": "Thái Nguyên",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 100,
+    "country_id": 86,
+    "district": [],
+    "confirm_method": [],
+    "name_url": "thai-nguyen",
+    "id": 271
+  },
+  {
+    "name": "Thanh Hoá",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 100,
+    "country_id": 86,
+    "district": [],
+    "confirm_method": [],
+    "name_url": "thanh-hoa",
+    "id": 272
+  },
+  {
+    "name": "Tiền Giang",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 100,
+    "country_id": 86,
+    "district": [],
+    "confirm_method": [],
+    "name_url": "tien-giang",
+    "id": 274
+  },
+  {
+    "name": "Trà Vinh",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 100,
+    "country_id": 86,
+    "district": [],
+    "confirm_method": [],
+    "name_url": "tra-vinh",
+    "id": 275
+  },
+  {
+    "name": "Tuyên Quang",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 100,
+    "country_id": 86,
+    "district": [],
+    "confirm_method": [],
+    "name_url": "tuyen-quang",
+    "id": 276
+  },
+  {
+    "name": "Vĩnh Long",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 100,
+    "country_id": 86,
+    "district": [],
+    "confirm_method": [],
+    "name_url": "vinh-long",
+    "id": 277
+  },
+  {
+    "name": "Vĩnh Phúc",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 100,
+    "country_id": 86,
+    "district": [],
+    "confirm_method": [],
+    "name_url": "vinh-phuc",
+    "id": 278
+  },
+  {
+    "name": "Yên Bái",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 100,
+    "country_id": 86,
+    "district": [],
+    "confirm_method": [],
+    "name_url": "yen-bai",
+    "id": 279
+  },
+  {
+    "name": "Toàn Quốc",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 100,
+    "country_id": 86,
+    "district": [],
+    "confirm_method": [],
+    "name_url": "toan-quoc",
+    "id": 280
+  },
+  {
+    "name": "Đà Lạt",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 100,
+    "country_id": 86,
+    "district": [],
+    "confirm_method": [],
+    "name_url": "da-lat",
+    "id": 281
+  },
+  {
+    "name": "Vũng Tàu",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 100,
+    "country_id": 86,
+    "district": [
+      {
+        "province_id": 223,
+        "id": 58,
+        "name": "Tp. Vũng Tàu"
+      },
+      {
+        "province_id": 223,
+        "id": 59,
+        "name": "Tp. Bà Rịa"
+      },
+      {
+        "province_id": 223,
+        "id": 60,
+        "name": "Huyện Châu Đức"
+      },
+      {
+        "province_id": 223,
+        "id": 61,
+        "name": "Huyện Côn Đảo"
+      },
+      {
+        "province_id": 223,
+        "id": 62,
+        "name": "Huyện Long Điền"
+      },
+      {
+        "province_id": 223,
+        "id": 63,
+        "name": "Huyện Đất Đỏ"
+      },
+      {
+        "province_id": 223,
+        "id": 64,
+        "name": "Huyện Tân Thành"
+      },
+      {
+        "province_id": 223,
+        "id": 65,
+        "name": "Huyện Xuyên Mộc"
+      },
+      {
+        "province_id": 223,
+        "id": 702,
+        "name": "Huyện Long Sơn"
+      }
+    ],
+    "confirm_method": [],
+    "name_url": "vung-tau",
+    "id": 223
+  },
+  {
+    "name": "Bình Dương",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 100,
+    "country_id": 86,
+    "district": [
+      {
+        "province_id": 230,
+        "id": 122,
+        "name": "Thị xã Thủ Dầu Một"
+      },
+      {
+        "province_id": 230,
+        "id": 123,
+        "name": "Bến Cát"
+      },
+      {
+        "province_id": 230,
+        "id": 124,
+        "name": "Dầu Tiếng"
+      },
+      {
+        "province_id": 230,
+        "id": 125,
+        "name": "Tân Uyên"
+      },
+      {
+        "province_id": 230,
+        "id": 126,
+        "name": "Phú Giáo"
+      },
+      {
+        "province_id": 230,
+        "id": 127,
+        "name": "Thuận An"
+      },
+      {
+        "province_id": 230,
+        "id": 128,
+        "name": "Dĩ An"
+      },
+      {
+        "province_id": 230,
+        "id": 824,
+        "name": "Bàu Bàng"
+      }
+    ],
+    "confirm_method": [],
+    "name_url": "binh-duong",
+    "id": 230
+  },
+  {
+    "name": "Quảng Ninh",
+    "service": {
+      "service_end_time": "21:00",
+      "close_time_warning": 1800,
+      "uri": "https://api.tablenow.vn/api",
+      "service_start_time": "08:30",
+      "call_center": "1900 6044"
+    },
+    "display_order": 100,
+    "country_id": 86,
+    "district": [],
+    "confirm_method": [],
+    "name_url": "quang-ninh",
+    "id": 265
+  }
+]

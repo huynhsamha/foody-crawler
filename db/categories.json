@@ -1,0 +1,107 @@
+[
+  {
+    "Id": 12,
+    "Name": "Sang trọng",
+    "UrlRewriteName": "sang-trong",
+    "Avatar": "foody-12-sangtrong-635950388128057921.png",
+    "ResultCount": 255
+  },
+  {
+    "Id": 39,
+    "Name": "Buffet",
+    "UrlRewriteName": "buffet",
+    "Avatar": "foody-39-buffet-635950383405966956.png",
+    "ResultCount": 626
+  },
+  {
+    "Id": 1,
+    "Name": "Nhà hàng",
+    "UrlRewriteName": "nha-hang",
+    "Avatar": "foody-01-restoran-635950389575416940.png",
+    "ResultCount": 14617
+  },
+  {
+    "Id": 11,
+    "Name": "Ăn vặt/vỉa hè",
+    "UrlRewriteName": "an-vat-via-he",
+    "Avatar": "foody-11-anvat-635950388395266822.png",
+    "ResultCount": 28036
+  },
+  {
+    "Id": 56,
+    "Name": "Ăn chay",
+    "UrlRewriteName": "an-chay",
+    "Avatar": "foody-56-anchay-635950379675005450.png",
+    "ResultCount": 1462
+  },
+  {
+    "Id": 2,
+    "Name": "Café/Dessert",
+    "UrlRewriteName": "cafe",
+    "Avatar": "foody-02-kedai kopi-635950389484472462.png",
+    "ResultCount": 56693
+  },
+  {
+    "Id": 3,
+    "Name": "Quán ăn",
+    "UrlRewriteName": "quan-an",
+    "Avatar": "foody-03-rumah makan-635950389304770706.png",
+    "ResultCount": 73981
+  },
+  {
+    "Id": 4,
+    "Name": "Bar/Pub",
+    "UrlRewriteName": "bar-pub",
+    "Avatar": "foody-04-barpub-635950389189605062.png",
+    "ResultCount": 1334
+  },
+  {
+    "Id": 54,
+    "Name": "Quán nhậu",
+    "UrlRewriteName": "quan-nhau",
+    "Avatar": "foody-54-quannhau-635950379866739193.png",
+    "ResultCount": 6343
+  },
+  {
+    "Id": 43,
+    "Name": "Beer club",
+    "UrlRewriteName": "beer-club",
+    "Avatar": "foody-43-beerclub-635950382429048603.png",
+    "ResultCount": 357
+  },
+  {
+    "Id": 6,
+    "Name": "Tiệm bánh",
+    "UrlRewriteName": "tiem-banh",
+    "Avatar": "foody-06-tiembanh-635950389009259871.png",
+    "ResultCount": 4927
+  },
+  {
+    "Id": 44,
+    "Name": "Tiệc tận nơi",
+    "UrlRewriteName": "tiec-tan-noi",
+    "Avatar": "foody-44-tiectannoi-635950382223863942.png",
+    "ResultCount": 112
+  },
+  {
+    "Id": 27,
+    "Name": "Shop Online",
+    "UrlRewriteName": "shop-online",
+    "Avatar": "foody-27-shoponline-635950385288337691.png",
+    "ResultCount": 9581
+  },
+  {
+    "Id": 28,
+    "Name": "Giao cơm văn phòng",
+    "UrlRewriteName": "giao-com-van-phong",
+    "Avatar": "foody-28-comvanphong-635950385047534150.png",
+    "ResultCount": 527
+  },
+  {
+    "Id": 79,
+    "Name": "Khu Ẩm Thực",
+    "UrlRewriteName": "Foodcourt",
+    "Avatar": "foody-64x64_pic-category-khuamthuc-636266402889811778.png",
+    "ResultCount": 360
+  }
+]

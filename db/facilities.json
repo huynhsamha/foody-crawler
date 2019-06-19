@@ -1,0 +1,219 @@
+[
+  {
+    "image_name": "VuiChoiTreEm.png",
+    "display_order": 6,
+    "url_rewrite_name": "cho-choi-cho-tre-em",
+    "id": 1,
+    "name": "Có chỗ chơi cho trẻ em"
+  },
+  {
+    "image_name": "DatBanTruoc.png",
+    "display_order": 5,
+    "url_rewrite_name": "dat-ban-truoc",
+    "id": 2,
+    "name": "Nên đặt trước"
+  },
+  {
+    "image_name": "GiaoHang.png",
+    "display_order": 2,
+    "url_rewrite_name": "giao-hang",
+    "id": 3,
+    "name": "Có giao hàng"
+  },
+  {
+    "image_name": "MuaMangVe.png",
+    "display_order": 3,
+    "url_rewrite_name": "cho-mua-ve",
+    "id": 4,
+    "name": "Cho mua về"
+  },
+  {
+    "image_name": "BanNgoaiTroi.png",
+    "display_order": 5,
+    "url_rewrite_name": "ban-ngoai-troi",
+    "id": 5,
+    "name": "Có bàn ngoài trời"
+  },
+  {
+    "image_name": "Wifi.png",
+    "display_order": 1,
+    "url_rewrite_name": "wifi",
+    "id": 6,
+    "name": "Có wifi"
+  },
+  {
+    "image_name": "PhongRieng.png",
+    "display_order": 5,
+    "url_rewrite_name": "phong-rieng",
+    "id": 7,
+    "name": "Có phòng riêng"
+  },
+  {
+    "image_name": "Karaoke.png",
+    "display_order": 8,
+    "url_rewrite_name": "karaoke",
+    "id": 8,
+    "name": "Có karaoke"
+  },
+  {
+    "image_name": "TipNhanVien.png",
+    "display_order": 9,
+    "url_rewrite_name": "tip-cho-nhan-vien",
+    "id": 9,
+    "name": "Tip cho nhân viên"
+  },
+  {
+    "image_name": "MayLanh.png",
+    "display_order": 2,
+    "url_rewrite_name": "may-lanh",
+    "id": 10,
+    "name": "Có máy lạnh & điều hòa"
+  },
+  {
+    "image_name": "TraBangThe.png",
+    "display_order": 3,
+    "url_rewrite_name": "tra-bang-the",
+    "id": 11,
+    "name": "Trả bằng thẻ"
+  },
+  {
+    "image_name": "NhacSong.png",
+    "display_order": 16,
+    "url_rewrite_name": "nhac-song",
+    "id": 12,
+    "name": "Có nhạc sống"
+  },
+  {
+    "image_name": "HutThuoc.png",
+    "display_order": 10,
+    "url_rewrite_name": "khu-vuc-hut-thuoc",
+    "id": 13,
+    "name": "Có khu vực hút thuốc"
+  },
+  {
+    "image_name": "ChoDauXeHoi.png",
+    "display_order": 4,
+    "url_rewrite_name": "cho-dau-oto",
+    "id": 14,
+    "name": "Có chỗ đậu ôtô"
+  },
+  {
+    "image_name": "GiuXeMienPhi.png",
+    "display_order": 8,
+    "url_rewrite_name": "giu-xe-may-mien-phi",
+    "id": 15,
+    "name": "Giữ xe máy miễn phí"
+  },
+  {
+    "image_name": "ChieuBongDa.png",
+    "display_order": 15,
+    "url_rewrite_name": "chieu-bong-da",
+    "id": 16,
+    "name": "Có chiếu bóng đá"
+  },
+  {
+    "image_name": "NguoiKhuyetTat.png",
+    "display_order": 14,
+    "url_rewrite_name": "ho-tro-nguoi-khuyet-tat",
+    "id": 17,
+    "name": "Có hỗ trợ người khuyết tật"
+  },
+  {
+    "image_name": "HoTroHoiThao.png",
+    "display_order": 13,
+    "url_rewrite_name": "ho-tro-hoi-thao",
+    "id": 18,
+    "name": "Có hỗ trợ hội thảo"
+  },
+  {
+    "image_name": "TheThanhVien.png",
+    "display_order": 11,
+    "url_rewrite_name": "the-thanh-vien",
+    "id": 19,
+    "name": "Có thẻ thành viên"
+  },
+  {
+    "image_name": "XuatHoaDon.png",
+    "display_order": 12,
+    "url_rewrite_name": "xuat-hoa-don-do",
+    "id": 20,
+    "name": "Có xuất hóa đơn đỏ"
+  },
+  {
+    "image_name": "LoSuoi.png",
+    "display_order": 13,
+    "url_rewrite_name": "lo-suoi",
+    "id": 22,
+    "name": "Có lò sưởi"
+  },
+  {
+    "image_name": "HoBoi.png",
+    "display_order": 1,
+    "url_rewrite_name": "ho-boi",
+    "id": 23,
+    "name": "Có hồ bơi"
+  },
+  {
+    "image_name": "Tennis.png",
+    "display_order": 0,
+    "url_rewrite_name": "san-tennis",
+    "id": 24,
+    "name": "Sân Tennis"
+  },
+  {
+    "image_name": "",
+    "display_order": 24,
+    "url_rewrite_name": "",
+    "id": 25,
+    "name": "Sân Golf"
+  },
+  {
+    "image_name": "",
+    "display_order": 25,
+    "url_rewrite_name": "",
+    "id": 26,
+    "name": "Bowling"
+  },
+  {
+    "image_name": "",
+    "display_order": 26,
+    "url_rewrite_name": "",
+    "id": 27,
+    "name": "Ăn Sáng Miễn Phí"
+  },
+  {
+    "image_name": "",
+    "display_order": 27,
+    "url_rewrite_name": "",
+    "id": 28,
+    "name": "Spa & Massage"
+  },
+  {
+    "image_name": "",
+    "display_order": 27,
+    "url_rewrite_name": "",
+    "id": 29,
+    "name": "Đồ Ăn Tận Phòng"
+  },
+  {
+    "image_name": "",
+    "display_order": 29,
+    "url_rewrite_name": "",
+    "id": 30,
+    "name": "Thú Cưng"
+  },
+  {
+    "image_name": "",
+    "display_order": 30,
+    "url_rewrite_name": "",
+    "id": 31,
+    "name": "Nhà Hàng"
+  },
+  {
+    "image_name": "",
+    "display_order": 31,
+    "url_rewrite_name": "",
+    "id": 32,
+    "name": "Phòng Gym"
+  }
+]
