@@ -1,6 +1,6 @@
 # Foody crawler
 
-Crawl database from https://www.foody.vn/ using Node.JS (`request-promise`, `cheerio`, `async`, ...)
+Crawl https://www.foody.vn/ using **NodeJS** with dependencies `request-promise`, `cheerio`, `async` and more.
 
 Crawled collections:
 
@@ -12,36 +12,38 @@ Crawled collections:
 
 ## Quickstart
 
-### Install dependencies
+### Installing dependencies
 
 ```bash
 yarn
 # or `npm install`
 ```
 
-### Crawl simple collections
+### Crawling simple collections
 
-Crawl all simple collections: province, district, cuisine, category, facility
+Start crawling all simple collections: **province**, **district**, **cuisine**, **category**, **facility**
 
 ```bash
 node src/getMetadata.js
 ```
 
-### Crawl all restaurants
+### Crawling all restaurants
 
-Create an account on https://www.foody.vn
+Before crawling all restaurants, we should login to the site for using APIs blocking normal user (without authentication, not been logged in).
 
-Create file `.env` similar to `.env.example`
-
-Change `FOODY_USERNAME` and `FOODY_PASSWORD` to your account
++ Create an account on https://www.foody.vn
++ Create file `.env` similar to `.env.example`
++ Change `FOODY_USERNAME` and `FOODY_PASSWORD` to your account
 
 Start crawling process
 
 ```bash
 node src/getRestaurants.js
+```
 
-## Output:
+Output
 
+```
 https://www.foody.vn:443/account/validatetoken?token=C6E96F82-9F8C-4DBA-91AF-622E22D18627&isremember=True
 done
 ===================================
@@ -84,7 +86,7 @@ OK
 ## Understanding the crawler
 
 ```
-├── cookies.json              <=== generated when crawling process, ignored in git
+├── cookies.json              <=== generated in crawling process, ignored in git
 ├── db
 │   ├── categories.json
 │   ├── cuisines.json
@@ -100,7 +102,7 @@ OK
 │   │   ├── in_273_307.jl
 │   │   ├── in_273_308.jl
 │   │   └── in_273_309.jl
-│   └── restaurant.zip       <=== zip directory `restaurant`
+│   └── restaurant.zip       <=== zipping directory `restaurant`
 ├── .editorconfig
 ├── .env                     <=== containing foody account, ignored in git
 ├── .env.example
@@ -113,10 +115,10 @@ OK
 │   ├── crawlers
 │   │   ├── metadata.js      <=== crawling simple collections
 │   │   └── restaurant.js    <=== crawling all restaurants
-│   ├── getMetadata.js       <=== file to execute crawling
-│   ├── getRestaurants.js    <=== file to execute crawling
+│   ├── getMetadata.js       <=== file to execute the crawling process
+│   ├── getRestaurants.js    <=== file to execute the crawling process
 │   └── modules
 │       ├── request.js       <=== managing global request and cookies jar
-│       └── visit.js         <=== visit home page to get cookies and login
+│       └── visit.js         <=== visiting home page to get cookies and login
 └── yarn.lock
 ```
