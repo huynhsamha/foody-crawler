@@ -1,3 +1,11 @@
+⚠️[Unauthorized Data Collecting] ⚠️ 
+
+*You should consider before collecting data by using the following scripts.*
+*This is my old version used to collect data from Foody.*
+*I think most APIs have upgraded or changed. You can customize scripts to be compatible with new APIs.*
+
+**Say Again: Unauthorized Data Collecting. *"Open at Your Own Risk"***
+
 # Foody crawler
 
 Crawl https://www.foody.vn/ using **NodeJS** with dependencies `request-promise`, `cheerio`, `async` and more.
